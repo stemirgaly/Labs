@@ -1,2 +1,2 @@
-import math
-print(math.sqrt(int(input())**2+int(input())**2))
+print((int(input())**2+int(input())**2)**0.5)
+#done
